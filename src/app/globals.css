@@ -1,0 +1,71 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Theme colors */
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-rgb: 255, 255, 255;
+}
+
+.dark {
+  --foreground-rgb: 255, 255, 255;
+  --background-rgb: 23, 23, 23;
+}
+
+/* Global body styles */
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+}
+
+/* Animated wave inside developer monitor */
+
+.monitor-wave {
+  stroke-dasharray: 18 12;
+  animation: monitor-wave-flow 4s linear infinite;
+}
+
+.monitor-wave-primary {
+  animation-duration: 5s;
+}
+
+.monitor-wave-secondary {
+  animation-duration: 7s;
+  animation-direction: reverse;
+  opacity: 0.8;
+}
+
+@keyframes monitor-wave-flow {
+  to {
+    stroke-dashoffset: -300;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .monitor-wave {
+    animation: none;
+  }
+}
+@keyframes hex-breathe {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 0.75;
+  }
+
+  50% {
+    transform: scale(1.035);
+    opacity: 1;
+  }
+}
+
+.animate-hex-breathe {
+  animation: hex-breathe 6s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-hex-breathe {
+    animation: none;
+  }
+}
