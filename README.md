@@ -16,7 +16,7 @@ I enjoy transforming ideas into practical solutions through Python, AI-powered a
 - 🤖 Interested in AI Engineering, Generative AI, and Machine Learning
 - ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
 - 🌍 Currently based in the United Arab Emirates 🇦🇪
-- 🚀 Exploring innovative AI applications and intelligent automation
+- 🚀 Exploring innovative AI applications and intelligent automation 
 
 ---
 
