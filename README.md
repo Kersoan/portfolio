@@ -36,7 +36,7 @@ I enjoy transforming ideas into practical solutions through Python, AI-powered a
   <img src="https://img.shields.io/badge/Computer%20Vision-2471A3?style=flat-square" />
   <img src="https://img.shields.io/badge/NLP-117864?style=flat-square" />
 </p>
-
+  
 ### Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv,react,nextjs,nodejs,express,mongodb" />
