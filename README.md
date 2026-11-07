@@ -52,7 +52,7 @@ I enjoy transforming ideas into practical solutions through Python, AI-powered a
 
 ### Databases, Cloud & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,azure,git,github,vscode" />  
 </p>
 
 ---
