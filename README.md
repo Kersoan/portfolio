@@ -13,7 +13,7 @@ I'm an AI & Data Science professional passionate about building intelligent appl
 I enjoy transforming ideas into practical solutions through Python, AI-powered applications, RAG architectures, and modern technologies.
 
 - 🎓 B.Tech in Artificial Intelligence & Data Science
-- 🤖 Interested in AI Engineering, Generative AI, and Machine Learning
+- 🤖 Interested in AI Engineering, Generative AI, and Machine Learning  
 - ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
 - 🌍 Currently based in the United Arab Emirates 🇦🇪  
 - 🚀 Exploring innovative AI applications and intelligent automation 
