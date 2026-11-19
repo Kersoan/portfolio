@@ -28,7 +28,7 @@ I enjoy transforming ideas into practical solutions through Python, AI-powered a
 </p>
 
 ### AI, Machine Learning & Data Science
-<p>
+<p>  
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square" />
   <img src="https://img.shields.io/badge/Deep%20Learning-102230?style=flat-square" />
   <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=flat-square" />
